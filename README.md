@@ -1,33 +1,44 @@
-# Online Book Store Database Project
+# 📚 Online Book Store Database Project
 
 ## Project Overview
+
 This project demonstrates the design and implementation of an Online Book Store Database using PostgreSQL.
 
-## Features
-- Database Design
-- Table Creation
-- Primary & Foreign Keys
-- Data Import using CSV Files
-- SQL Queries
-- Data Analysis
+## Database Schema
 
-## Database Tables
-1. Books
-2. Customers
-3. Orders
+The database consists of three tables:
+
+* Books
+* Customers
+* Orders
+
+## Key Concepts Used
+
+* Primary Keys
+* Foreign Keys
+* Joins
+* Aggregate Functions
+* Data Import using CSV Files
+* Data Analysis Queries
 
 ## Technologies Used
-- PostgreSQL
-- pgAdmin 4
-- SQL
+
+* PostgreSQL
+* SQL
+* pgAdmin 4
+
+## Sample Analysis
+
+* Total Sales Revenue
+* Best Selling Books
+* Customer Purchase Analysis
+* Inventory Tracking
 
 ## Learning Outcomes
-- Database Design
-- Relationships
-- Joins
-- Aggregations
-- Data Import
-- Query Optimization
 
-## Author
+This project helped me strengthen my understanding of relational databases, SQL queries, table relationships, and real-world database design.
+
+### Author
+
 Prabhat Raghav
+Aspiring Data Analyst | SQL | Python | Excel
